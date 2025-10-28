@@ -19,7 +19,7 @@ Versatile usage: The application can extract text from various sources, includin
 
 ### Installation:
 Clone the repository:
-git clone https://github.com/Priyansu-Bhandari/EasyOCR_Project.git
+git clone https://github.com/omkarsawargaonkar25/OCR-Project.git
 
 Install the required dependencies:
 pip install -r requirements.txt
@@ -53,7 +53,7 @@ Push your changes to your forked repository.
 Submit a pull request detailing your changes.
 
 ### Contact:
-For any inquiries or suggestions, please contact bhandaripriyanshupb2002@gmail.com.
+For any inquiries or suggestions, please contact omkarsawargaonkar.sae.comp@gmail.com.
 
 Note: Include any additional sections or information that may be relevant to your specific project.
 
